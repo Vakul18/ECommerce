@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pweltA92I0M2pIqF/Ko/MAXOjzBCbORg6n1hn5CdSBI3I10F5fmt/TOoa5yLiNyUC/vdl+v2AXTHv2EI5j9qFQ==",
+  "dgSpecHash": "XaAmldsmGygWecQ7dn3ROp+2ErCOLAmQfqWBOInusbzXSYQrWVAacsYwIfScsBBU+f2Y94dx5JMYNDy7Kd30Ow==",
   "success": true,
   "projectFilePath": "E:\\Programming\\Azure Microservice Course\\ECommerce\\ECommerce.Api.Products.Tests\\ECommerce.Api.Products.Tests.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\z003wrzm\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.2.0\\microsoft.testplatform.objectmodel.16.2.0.nupkg.sha512",
     "C:\\Users\\z003wrzm\\.nuget\\packages\\microsoft.testplatform.testhost\\16.2.0\\microsoft.testplatform.testhost.16.2.0.nupkg.sha512",
+    "C:\\Users\\z003wrzm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.0.1\\microsoft.win32.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\z003wrzm\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
